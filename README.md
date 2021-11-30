@@ -1,4 +1,4 @@
-# 2D_Visibility
+# 2D_Visibility_Unity
 Using 2D visibility algorithm in Unity
 
 # 2D visibility algorithm Blog
